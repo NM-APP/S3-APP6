@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/robotsim.dir/src/robotsim.cpp.o -o robotsim  librobot.a -lpthread 

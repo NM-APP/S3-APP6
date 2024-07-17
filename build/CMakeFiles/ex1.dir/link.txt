@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ex1.dir/lab/ex1.cpp.o -o ex1  -lpthread 
